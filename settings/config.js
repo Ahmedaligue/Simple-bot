@@ -1,17 +1,17 @@
 import fs from "fs";
 import chalk from "chalk";
 
-global.owner = ["628x","22@lid"];
+global.owner = ["212625458341","225924406595742@lid"];
 global.mode = false;
 global.menuStyle = 'relay';
 
-global.namebotz = "Alifatah wabot !";
-global.packname = 'www.ziihost.store';
-global.nameown = "Fauzialifatah | Projects";
-global.author = 'https://www.github.com/Alifatahfauzi';
-global.footer = "𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗆: @FauziAlifatah";
+global.namebotz = "SENKU BOT !";
+global.packname = 'SENKU BOT';
+global.nameown = "AHMED ALIGUE";
+global.author = 'https://www.github.com/Ahmedaligue';
+global.footer = "www.istagram.com/aa18.aligue";
 
-global.YouTube = "https://www.youtube.com/@Fauzialifatah";
-global.GitHub = "https://github.com/Alifatahfauzi";
-global.Telegram = "https://t.me/FauziAlifatah";
-global.ChannelWA = "https://whatsapp.com/channel/0029VawsCnQ9mrGkOuburC1z";
+global.YouTube = "www.github.com/Ahmedaligue";
+global.GitHub = "www.github.com/Ahmedaligue";
+global.Telegram = "www.istagram.com/aa18.aligue";
+global.ChannelWA = "www.istagram.com/aa18.aligue";
